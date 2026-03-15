@@ -45,10 +45,11 @@ plt.xlabel("Principal Component 1")
 plt.ylabel("Principal Component 2")
 plt.title("PCA - Heights and Weights Dataset")
 plt.show()
+
 ```
 
 ## Output:
-#
+#<img src="https://img.sanishtech.com/u/668e245ec5ab963f068028d1566a95af.png" alt="Screenshot 2026-03-15 095918" width="908" height="792" loading="lazy" style="max-width:100%;height:auto;">
 
 
 ## Result:
